@@ -1,0 +1,10 @@
+.sidebare {
+     height: 100vh;
+}
+.btnclose {
+     display: flex;
+     align-items: center;
+     justify-content: end;
+     font-size: 1.5em;
+     margin: 10;
+}

@@ -1,0 +1,14 @@
+.register,
+.login,
+.oublier {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form {
+  width: 40%;
+  background-color: #eee;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 20px;
+}
